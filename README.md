@@ -39,14 +39,13 @@
   
 
 **4. The Largest Coin:
-    
-    The largest that was mined was with 6 leading 0s. The program ran for 20 minutes before finding the first coin, then the subsequent coins were being mined relatively quicker
-    
-    <img width="958" alt="Screen Shot 2022-09-24 at 10 40 39 PM" src="https://user-images.githubusercontent.com/54150291/192127293-29761041-80c2-4f40-88b5-8b194c2851c0.png">
+
+ The largest that was mined was with 6 leading 0s. The program ran for 20 minutes before finding the first coin, then the subsequent coins were being mined relatively quicker.
+ 
+ <img width="958" alt="Screen Shot 2022-09-24 at 10 40 39 PM" src="https://user-images.githubusercontent.com/54150291/192127381-5bf3177f-e772-4a23-9afd-de97b4948ebd.png">
 
     
-
-**5. Maximum number of working machines**
+**5. Maximum number of working machines employed.**
   
   The maximum number of working machines in the system were 2, with server and one node on one system and four nodes on the other system.  
   
